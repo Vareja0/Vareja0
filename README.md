@@ -34,11 +34,11 @@ I am a student passionate about automating infrastructure, scaling applications,
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vareja0&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vareja0&layout=compact&theme=transparent)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Vareja0]&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Vareja0]&layout=compact&theme=transparent)
 
 ---
 
 ### 📫 How to reach me
 - 💼 [LinkedIn](https://www.linkedin.com/in/riscala-miguel-fadel-neto-8567103b7/)
-- 📧 [Email](netofadel@proton.me)
+- 📧 [Email](mailto:netofadel@proton.me)
