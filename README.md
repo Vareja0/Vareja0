@@ -50,5 +50,5 @@ I am a student passionate about automating infrastructure, scaling applications,
 ---
 
 ### 📫 How to reach me
-- 💼 [LinkedIn](https://www.linkedin.com/in/riscala-miguel-fadel-neto-8567103b7/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/riscala-miguel-fadel-neto)
 - 📧 [Email](mailto:netofadel@proton.me)
