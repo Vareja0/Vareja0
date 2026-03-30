@@ -38,7 +38,6 @@ I am a student passionate about automating infrastructure, scaling applications,
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
 
-Would you like me to add a "Project Status" section that uses dynamic progress bars to show how far along you are in learning these tools?
 
 ---
 
